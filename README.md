@@ -92,22 +92,6 @@
 - Cloud Technologies
 - DSA
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reddy-0612&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=reddy-0612&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy-0612&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 📫 Connect with Me
 
 📧 Email: **menakuruvarshini@gmail.com**
@@ -118,8 +102,4 @@ https://linkedin.com/in/varshini-reddy-menakuru-403094322
 💻 GitHub:
 https://github.com/reddy-0612
 
----
 
-### ✨ Quote
-
-> "Learning never exhausts the mind. Every project is another step toward becoming a better engineer."
